@@ -7,7 +7,26 @@
 
 ## Linguagens e Ferramentas
 ### Linguagens
+<div id="stacks">
+ <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
+ <img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
+ <img height="48px" width="48px" alt="JS" src="https://skillicons.dev/icons?i=js"/>
+ <img height="48px" width="48px" alt="JAVA" src="https://skillicons.dev/icons?i=java"/>
+ <img height="48px" width="48px" alt="PYTHON" src="https://skillicons.dev/icons?i=python"/>
+</div>
+ 
 ### Ferramentas
+<div id="stacks-tool">
+ <img height="48px" width="48px" alt="BOOTSTRAP" src="https://skillicons.dev/icons?i=bootstrap"/>
+ <img height="48px" width="48px" alt="JSP" src="https://cdn-icons-png.flaticon.com/512/5105/5105742.png"/>
+ <img height="48px" width="48px" alt="JSF" src="https://cdn-icons-png.freepik.com/512/9277/9277331.png"/>
+ <img height="48px" width="48px" alt="DJANGO" src="https://skillicons.dev/icons?i=django"/>
+ <img height="48px" width="48px" alt="DJANGOREST" src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png"/>
+ <img height="48px" width="48px" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode"/>
+ <img height="48px" width="48px" alt="ECLIPSE" src="https://skillicons.dev/icons?i=eclipse"/>
+ <img height="48px" width="48px" alt="POSTMAN" src="https://skillicons.dev/icons?i=postman"/>
+ <img height="48px" width="48px" alt="POSTGRESQL" src="https://skillicons.dev/icons?i=postgresql"/>
+</div>
 
 ## Experiências Profissionais
 

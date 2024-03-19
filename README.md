@@ -31,5 +31,10 @@
 ## Experiências Profissionais
 
 ## Formações Acadêmicas
+<ul>
+ <li>Bacharelando em Tecnologia da Informação, UFRN.</li>
+ <li>Programador Web, UFRN.</li>
+ <li>Técnico em Informática, IFRN.</li>
+</ul>
 
 ## Contato
